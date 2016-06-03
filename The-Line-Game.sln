@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{3F21F59F-1533-B4EA-ACCC-9A5E4AB697FD}") = "The-Line-Game", "Assembly-CSharp.csproj", "{DE7BFCAA-CB43-5D52-99CF-34A75BF6E0A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE7BFCAA-CB43-5D52-99CF-34A75BF6E0A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE7BFCAA-CB43-5D52-99CF-34A75BF6E0A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE7BFCAA-CB43-5D52-99CF-34A75BF6E0A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE7BFCAA-CB43-5D52-99CF-34A75BF6E0A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
